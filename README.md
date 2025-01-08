@@ -3,7 +3,7 @@ Predict restaurant profit growth using factors such as location, local populatio
 
 ## Summary
 
-This project aims to analyze a dataset comprising 1090 rows and 8 columns of data related to a restaurant site selection. The target variable is 'year_3_profit.' With exploratory analysis and model fitting, we aim to determine factors contributing to profitability and develop a model to predict future profit.
+This project predicts whether a restaurant will achieve profitability within three years by analyzing a dataset with 1,090 rows and 8 features related to site selection. Through exploratory data analysis and model fitting, key factors influencing profitability are identified, and a predictive model is developed to forecast future profits.
 
 ## Data Validation
 
